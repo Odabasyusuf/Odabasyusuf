@@ -21,6 +21,8 @@ I build scalable backend systems with a focus on performance, automation, and cl
 | **AI & Automation** | LLM APIs (OpenAI, Claude, Gemini), Prompt Engineering, AI Workflows |
 | **DevOps & Cloud** | AWS, Cloudflare, DigitalOcean, Docker, CI/CD, GitHub Actions|
 
+---
+
 ### GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Odabasyusuf&layout=compact&theme=radical)
@@ -29,6 +31,5 @@ I build scalable backend systems with a focus on performance, automation, and cl
 
 ### Connect with me
 
-- **LinkedIn:** [linkedin.com/in/Odabasyusuf](https://linkedin.com/in/Odabasyusuf)
-- **Website:** [odabasyusuf.com](https://odabasyusuf.com)
-- **Email:** [info@odabasyusuf.com](mailto:info@odabasyusuf.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/Odabasyusuf) 
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:info@odabasyusuf.com)
